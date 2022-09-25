@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    left: 0;
+    right: 0;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+
+body {
+    background-color: #1A1A1D;
+}
+
+.mainnavbar {
+    color: white;
+}
+
+.mainnavlist {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #4E4E50;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.mainnavlist li {
+    text-align: center;
+    margin-right: 535px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.divone {
+    margin-top: 25px;
+    margin-left: 25px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.divone h2 {
+    text-align: center;
+    color: #6F2232;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+
+.divone button {
+    background-color: #051622;
+    box-sizing: border-box;
+    font-size: 27px;
+    margin-left: 70px;
+    margin-right: 90px;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: #ffff00;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.indigo {
+    color: indigo;
+}
+
+.violet {
+    color: violet;
+}
+
+.red:hover {
+    background-color: #FFC6C4;
+}
+
+.orange:hover {
+    background-color: #FFD8A7;
+}
+
+.yellow:hover {
+    background-color: #FFFFDC;
+}
+
+.green:hover {
+    background-color: #84FA84;
+}
+
+.blue:hover {
+    background-color: #A6DCED;
+}
+
+.indigo:hover {
+    background-color: #dfc5fe;
+}
+
+.violet:hover {
+    background-color: #CC8CFF;
+}
+
+.divtwo h2 {
+    text-align: center;
+    color: #950740;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+
+.divtwo button {
+    box-sizing: border-box;
+    font-size: 27px;
+    margin-left: 70px;
+    margin-right: 80px;
+    border-radius: 20px;
+    padding: 5px 5px;
+}
+
+.strawberry {
+    background-color: red;
+}
+
+.clementine {
+    background-color: orange;
+}
+
+.banana {
+    background-color: yellow;
+}
+
+.grapes {
+    background-color: green;
+}
+
+.blueberry {
+    background-color: cornflowerblue;
+}
+
+.plums {
+    background-color: purple;
+}
+
+.acai {
+    background-color: violet;
+}
+
+
+.divthree h2 {
+    text-align: center;
+    color: #6F2232;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding-bottom: 30px;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.divthree button {
+    box-sizing: border-box;
+    font-size: 27px;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    background-color: #1A1A1D;
+}
+
+.youtube {
+    box-shadow: 2px 2px red;
+}
+
+.fanta {
+    box-shadow: 2px 2px orange;
+}
+
+.lays {
+    box-shadow: 2px 2px yellow;
+}
+
+.shopify {
+    box-shadow: 2px 2px green;
+}
+
+.ford {
+    box-shadow: 2px 2px blue;
+}
+
+.teams {
+    box-shadow: 2px 2px indigo;
+}
+
+.lg {
+    box-shadow: 2px 2px violet;
+}
+
+.divfourfinal img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 500px;
+    width: 900px;
+    height: 500px;
+}
+
+.divfourfinal h2 {
+    text-align: center;
+    color: #950740;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.footer h2 {
+    color: white;
+    text-align: right;
+    font-size: 30px;
+    margin-right: 20px;
+}
